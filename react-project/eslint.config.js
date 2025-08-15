@@ -28,6 +28,7 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      // eslint-disable-next-line no-dupe-keys
       'no-unused-vars': 'off'
     },
   },
